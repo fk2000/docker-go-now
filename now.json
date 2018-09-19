@@ -1,0 +1,7 @@
+{
+  "public": true,
+  "features": {
+    "cloud": "v2"
+  },
+  "alias": ["docker-go-now.ml", "fk2000"]
+}
